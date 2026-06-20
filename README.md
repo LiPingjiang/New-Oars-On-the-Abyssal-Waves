@@ -48,6 +48,8 @@
 | [Krzysztof Olszewski：从Neoplan工厂经理到Solaris创始人](研究框架/领域划分/技术-工匠型/案例库/Krzysztof_Olszewski_从Neoplan工厂经理到Solaris创始人.md) | Krzysztof Olszewski | Neoplan柏林工厂经理 | Solaris Bus & Coach创始人 | 现当代 | 波兰波兹南 | ✅ 已完成 |
 | [Osman Kent与Yavuz Ahıska：从伦敦研究生到GPU先驱创始人](研究框架/领域划分/技术-工匠型/案例库/Osman_Kent_Yavuz_Ahiska_从伦敦研究生到GPU先驱创始人.md) | Osman Kent & Yavuz Ahıska | 伯明翰大学研究生/研究员 | 3Dlabs联合创始人 | 现当代 | 土耳其/英国/美国 | ✅ 已完成 |
 | [Blanca Treviño与Gerardo López：从蒙特雷毕业生到Softtek联合创始人](研究框架/领域划分/技术-工匠型/案例库/Blanca_Trevino_Gerardo_Lopez_从蒙特雷毕业生到Softtek联合创始人.md) | Blanca Treviño & Gerardo López | 蒙特雷理工大学毕业生 | Softtek联合创始人 | 现当代 | 墨西哥蒙特雷 | ✅ 已完成 |
+| [Luciano Passoni：从机械设计工程师到SIR Robotics创始人](研究框架/领域划分/技术-工匠型/案例库/Luciano_Passoni_从机械设计工程师到SIR_Robotics创始人.md) | Luciano Passoni | 意大利机械设计公司工程师 | SIR Robotics创始人 | 现当代 | 意大利摩德纳 | ✅ 已完成 |
+| [Nguyễn Đăng Quang与Hồ Hùng Anh：从留俄学生到Techcombank联合创始人](研究框架/领域划分/技术-工匠型/案例库/Nguyen_Dang_Quang_Ho_Hung_Anh_从留俄学生到Techcombank联合创始人.md) | Nguyễn Đăng Quang & Hồ Hùng Anh | 苏联/乌克兰留学生（工程技术） | Techcombank联合创始人 | 现当代 | 越南河内 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
