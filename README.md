@@ -50,6 +50,8 @@
 | [Blanca Treviño与Gerardo López：从蒙特雷毕业生到Softtek联合创始人](研究框架/领域划分/技术-工匠型/案例库/Blanca_Trevino_Gerardo_Lopez_从蒙特雷毕业生到Softtek联合创始人.md) | Blanca Treviño & Gerardo López | 蒙特雷理工大学毕业生 | Softtek联合创始人 | 现当代 | 墨西哥蒙特雷 | ✅ 已完成 |
 | [Luciano Passoni：从机械设计工程师到SIR Robotics创始人](研究框架/领域划分/技术-工匠型/案例库/Luciano_Passoni_从机械设计工程师到SIR_Robotics创始人.md) | Luciano Passoni | 意大利机械设计公司工程师 | SIR Robotics创始人 | 现当代 | 意大利摩德纳 | ✅ 已完成 |
 | [Nguyễn Đăng Quang与Hồ Hùng Anh：从留俄学生到Techcombank联合创始人](研究框架/领域划分/技术-工匠型/案例库/Nguyen_Dang_Quang_Ho_Hung_Anh_从留俄学生到Techcombank联合创始人.md) | Nguyễn Đăng Quang & Hồ Hùng Anh | 苏联/乌克兰留学生（工程技术） | Techcombank联合创始人 | 现当代 | 越南河内 | ✅ 已完成 |
+| [Mitchell Elegbe：从斯伦贝谢线工程师到Interswitch创始人](研究框架/领域划分/技术-工匠型/案例库/Mitchell_Elegbe_从斯伦贝谢线工程师到Interswitch创始人.md) | Mitchell Elegbe | 斯伦贝谢（Schlumberger）线工程师/项目经理 | Interswitch创始人/CEO | 现当代 | 尼日利亚拉各斯 | ✅ 已完成 |
+| [Voicu Oprean：从失业工程师到AROBS创始人](研究框架/领域划分/技术-工匠型/案例库/Voicu_Oprean_从失业工程师到AROBS创始人.md) | Voicu Oprean | 意大利外资工厂工程师（被解雇） | AROBS Transilvania Software创始人/CEO | 现当代 | 罗马尼亚克卢日-纳波卡 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
