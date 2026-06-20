@@ -56,6 +56,7 @@
 | [Michael Holm：从国有软件工程师到Systematic创始人](研究框架/领域划分/技术-工匠型/案例库/丹麦技术-工匠型创业者案例_从国有软件工程师到Systematic创始人.md) | Michael Holm | Datacentralen（国有技术公司）软件工程师 | Systematic创始人兼CEO（38年） | 现当代 | 丹麦奥胡斯 | ✅ 已完成 |
 | [Ingemar Ingemarsson等：从大学研究员到Sectra联合创始人](研究框架/领域划分/技术-工匠型/案例库/瑞典技术-工匠型创业者案例_从大学研究员到Sectra联合创始人.md) | Ingemar Ingemarsson, Viiveke Fåk, Rolf Blom, Robert Forchheimer | 林雪平大学信息理论与信号处理研究人员 | Sectra联合创始人 | 现当代 | 瑞典林雪平 | ✅ 已完成 |
 | [Manop Thamsirianunt与Naiwut Wongkomet：从硅谷归国工程师到Silicon Craft创始人](研究框架/领域划分/技术-工匠型/案例库/泰国技术-工匠型创业者案例_从硅谷归国工程师到Silicon_Craft创始人.md) | Manop Thamsirianunt & Naiwut Wongkomet | 硅谷IC设计工程师/伯克利博士 | Silicon Craft联合创始人 | 现当代 | 泰国曼谷 | ✅ 已完成 |
+| [Martín Migoya等：从电子工程师到Globant联合创始人](研究框架/领域划分/技术-工匠型/案例库/阿根廷技术-工匠型创业者案例_从电子工程师到Globant联合创始人.md) | Martín Migoya, Guibert Englebienne, Martín Umaran, Néstor Nocetti | 拉普拉塔国立大学等电子工程师 | Globant联合创始人 | 现当代 | 阿根廷布宜诺斯艾利斯 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
