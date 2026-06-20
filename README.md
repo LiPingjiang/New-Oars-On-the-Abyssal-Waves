@@ -55,6 +55,8 @@
 | [Lars Monrad-Krohn等：从国防研究院工程师到Norsk Data创始人](研究框架/领域划分/技术-工匠型/案例库/挪威技术-工匠型创业者案例_从国防研究院工程师到Norsk_Data创始人.md) | Lars Monrad-Krohn, Rolf Skår, Per Bjørge | 挪威国防研究院（FFI）工程师 | Norsk Data联合创始人 | 现当代 | 挪威奥斯陆 | ✅ 已完成 |
 | [Michael Holm：从国有软件工程师到Systematic创始人](研究框架/领域划分/技术-工匠型/案例库/丹麦技术-工匠型创业者案例_从国有软件工程师到Systematic创始人.md) | Michael Holm | Datacentralen（国有技术公司）软件工程师 | Systematic创始人兼CEO（38年） | 现当代 | 丹麦奥胡斯 | ✅ 已完成 |
 | [Ingemar Ingemarsson等：从大学研究员到Sectra联合创始人](研究框架/领域划分/技术-工匠型/案例库/瑞典技术-工匠型创业者案例_从大学研究员到Sectra联合创始人.md) | Ingemar Ingemarsson, Viiveke Fåk, Rolf Blom, Robert Forchheimer | 林雪平大学信息理论与信号处理研究人员 | Sectra联合创始人 | 现当代 | 瑞典林雪平 | ✅ 已完成 |
+| [Sridhar Vembu：从高通工程师到Zoho创始人](研究框架/领域划分/技术-工匠型/案例库/Sridhar_Vembu_从高通工程师到Zoho创始人.md) | Sridhar Vembu | 高通（Qualcomm）无线工程师 | Zoho（AdventNet）创始人 | 现当代 | 印度/美国 | ✅ 已完成 |
+| [Jaan Tallinn等：从少年程序员到Skype创始工程师](研究框架/领域划分/技术-工匠型/案例库/爱沙尼亚技术-工匠型创业者案例_从少年程序员到Skype创始工程师.md) | Jaan Tallinn, Ahti Heinla, Priit Kasesalu | 爱沙尼亚本地硬件厂商少年程序员/BlueMoon游戏开发者 | Skype创始工程师/技术合伙人 | 现当代 | 爱沙尼亚塔林 | ✅ 已完成 |
 | [Manop Thamsirianunt与Naiwut Wongkomet：从硅谷归国工程师到Silicon Craft创始人](研究框架/领域划分/技术-工匠型/案例库/泰国技术-工匠型创业者案例_从硅谷归国工程师到Silicon_Craft创始人.md) | Manop Thamsirianunt & Naiwut Wongkomet | 硅谷IC设计工程师/伯克利博士 | Silicon Craft联合创始人 | 现当代 | 泰国曼谷 | ✅ 已完成 |
 | [Martín Migoya等：从电子工程师到Globant联合创始人](研究框架/领域划分/技术-工匠型/案例库/阿根廷技术-工匠型创业者案例_从电子工程师到Globant联合创始人.md) | Martín Migoya, Guibert Englebienne, Martín Umaran, Néstor Nocetti | 拉普拉塔国立大学等电子工程师 | Globant联合创始人 | 现当代 | 阿根廷布宜诺斯艾利斯 | ✅ 已完成 |
 | [Manoj Shanker与Mahesh Patel：从印度移民工程师到Techno Brain联合创始人](研究框架/领域划分/技术-工匠型/案例库/肯尼亚技术-工匠型创业者案例_从印度移民工程师到Techno_Brain联合创始人.md) | Manoj Shanker & Mahesh Patel | 印度工程师/坦桑尼亚本地合伙人 | Techno Brain联合创始人 | 现当代 | 东非（坦桑尼亚/肯尼亚） | ✅ 已完成 |
