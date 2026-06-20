@@ -52,6 +52,9 @@
 | [Nguyễn Đăng Quang与Hồ Hùng Anh：从留俄学生到Techcombank联合创始人](研究框架/领域划分/技术-工匠型/案例库/Nguyen_Dang_Quang_Ho_Hung_Anh_从留俄学生到Techcombank联合创始人.md) | Nguyễn Đăng Quang & Hồ Hùng Anh | 苏联/乌克兰留学生（工程技术） | Techcombank联合创始人 | 现当代 | 越南河内 | ✅ 已完成 |
 | [Mitchell Elegbe：从斯伦贝谢线工程师到Interswitch创始人](研究框架/领域划分/技术-工匠型/案例库/Mitchell_Elegbe_从斯伦贝谢线工程师到Interswitch创始人.md) | Mitchell Elegbe | 斯伦贝谢（Schlumberger）线工程师/项目经理 | Interswitch创始人/CEO | 现当代 | 尼日利亚拉各斯 | ✅ 已完成 |
 | [Voicu Oprean：从失业工程师到AROBS创始人](研究框架/领域划分/技术-工匠型/案例库/Voicu_Oprean_从失业工程师到AROBS创始人.md) | Voicu Oprean | 意大利外资工厂工程师（被解雇） | AROBS Transilvania Software创始人/CEO | 现当代 | 罗马尼亚克卢日-纳波卡 | ✅ 已完成 |
+| [Lars Monrad-Krohn等：从国防研究院工程师到Norsk Data创始人](研究框架/领域划分/技术-工匠型/案例库/挪威技术-工匠型创业者案例_从国防研究院工程师到Norsk_Data创始人.md) | Lars Monrad-Krohn, Rolf Skår, Per Bjørge | 挪威国防研究院（FFI）工程师 | Norsk Data联合创始人 | 现当代 | 挪威奥斯陆 | ✅ 已完成 |
+| [Michael Holm：从国有软件工程师到Systematic创始人](研究框架/领域划分/技术-工匠型/案例库/丹麦技术-工匠型创业者案例_从国有软件工程师到Systematic创始人.md) | Michael Holm | Datacentralen（国有技术公司）软件工程师 | Systematic创始人兼CEO（38年） | 现当代 | 丹麦奥胡斯 | ✅ 已完成 |
+| [Ingemar Ingemarsson等：从大学研究员到Sectra联合创始人](研究框架/领域划分/技术-工匠型/案例库/瑞典技术-工匠型创业者案例_从大学研究员到Sectra联合创始人.md) | Ingemar Ingemarsson, Viiveke Fåk, Rolf Blom, Robert Forchheimer | 林雪平大学信息理论与信号处理研究人员 | Sectra联合创始人 | 现当代 | 瑞典林雪平 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
