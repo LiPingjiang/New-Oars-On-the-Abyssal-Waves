@@ -60,6 +60,8 @@
 | [Manop Thamsirianunt与Naiwut Wongkomet：从硅谷归国工程师到Silicon Craft创始人](研究框架/领域划分/技术-工匠型/案例库/泰国技术-工匠型创业者案例_从硅谷归国工程师到Silicon_Craft创始人.md) | Manop Thamsirianunt & Naiwut Wongkomet | 硅谷IC设计工程师/伯克利博士 | Silicon Craft联合创始人 | 现当代 | 泰国曼谷 | ✅ 已完成 |
 | [Martín Migoya等：从电子工程师到Globant联合创始人](研究框架/领域划分/技术-工匠型/案例库/阿根廷技术-工匠型创业者案例_从电子工程师到Globant联合创始人.md) | Martín Migoya, Guibert Englebienne, Martín Umaran, Néstor Nocetti | 拉普拉塔国立大学等电子工程师 | Globant联合创始人 | 现当代 | 阿根廷布宜诺斯艾利斯 | ✅ 已完成 |
 | [Manoj Shanker与Mahesh Patel：从印度移民工程师到Techno Brain联合创始人](研究框架/领域划分/技术-工匠型/案例库/肯尼亚技术-工匠型创业者案例_从印度移民工程师到Techno_Brain联合创始人.md) | Manoj Shanker & Mahesh Patel | 印度工程师/坦桑尼亚本地合伙人 | Techno Brain联合创始人 | 现当代 | 东非（坦桑尼亚/肯尼亚） | ✅ 已完成 |
+| [Timo Pakkala与Elena Lehtimäki：从Nokia研发工程师到Casambi创始人](研究框架/领域划分/技术-工匠型/案例库/芬兰技术-工匠型创业者案例_从Nokia研发工程师到Casambi创始人.md) | Timo Pakkala & Elena Lehtimäki | Nokia Research Center软件工程师/首席开发工程师 | Casambi联合创始人 | 现当代 | 芬兰埃斯波 | ✅ 已完成 |
+| [Maarten Alblas：从Xomnia软件工程师到DataSnipper创始人](研究框架/领域划分/技术-工匠型/案例库/Maarten_Alblas_从Xomnia软件工程师到DataSnipper创始人.md) | Maarten Alblas | Xomnia（AI咨询公司）软件工程师/数据分析师 | DataSnipper创始人兼CEO | 现当代 | 荷兰阿姆斯特丹 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
