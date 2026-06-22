@@ -65,6 +65,7 @@
 | [Gauthier Philippart与Jean-Luc Morelle：从GE医疗工程师到Trasis创始人](研究框架/领域划分/技术-工匠型/案例库/比利时技术-工匠型创业者案例_从GE医疗工程师到Trasis创始人.md) | Gauthier Philippart & Jean-Luc Morelle | GE Medical Systems FastLab工程部门负责人/Coincidence Technologies创始人 | Trasis联合创始人 | 现当代 | 比利时列日 | ✅ 已完成 |
 | [Chu Jenn Weng：从HP马来西亚工程师到ViTrox创始人](研究框架/领域划分/技术-工匠型/案例库/Chu_Jenn_Weng_从HP马来西亚工程师到ViTrox创始人.md) | Chu Jenn Weng | HP Malaysia专业工程师 | ViTrox创始人兼CEO | 现当代 | 马来西亚槟城 | ✅ 已完成 |
 | [Nuno Sebastião等：从Siemens工程师到Feedzai创始人](研究框架/领域划分/技术-工匠型/案例库/葡萄牙技术-工匠型创业者案例_从Siemens工程师到Feedzai创始人.md) | Nuno Sebastião, Paulo Marques, Pedro Bizarro | Siemens葡萄牙研发中心工程师/研究员 | Feedzai联合创始人 | 现当代 | 葡萄牙科英布拉/里斯本 | ✅ 已完成 |
+| [Josef Průša：从布拉格经济大学学生到Prusa Research创始人](研究框架/领域划分/技术-工匠型/案例库/Josef_Prusa_从布拉格经济大学学生到Prusa_Research创始人.md) | Josef Průša | 布拉格经济大学学生/RepRap社区贡献者 | Prusa Research创始人兼CEO | 现当代 | 捷克布拉格 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
