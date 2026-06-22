@@ -75,6 +75,9 @@
 | [Peter Arvai等：从布达佩斯大学到Prezi联合创始人](研究框架/领域划分/技术-工匠型/案例库/Peter_Arvai_Peter_Halacsy_Adam_Somlai-Fischer_从布达佩斯大学到Prezi联合创始人.md) | Peter Arvai, Peter Halácsy, Ádám Somlai-Fischer | 斯德哥尔摩大学MBA/布达佩斯科技经济大学助理教授/建筑师 | Prezi联合创始人 | 现当代 | 匈牙利布达佩斯 | ✅ 已完成 |
 | [Nikos Moraitakis与Spyros Magiatis：从Upstream工程师到Workable联合创始人](研究框架/领域划分/技术-工匠型/案例库/Nikos_Moraitakis_Spyros_Magiatis_从Upstream工程师到Workable联合创始人.md) | Nikos Moraitakis & Spyros Magiatis | 安永IT咨询/Upstream高管/Upstream软件开发总监 | Workable联合创始人 | 现当代 | 希腊雅典 | ✅ 已完成 |
 | [Suwandi Soh：从精益六西格玛顾问到Mekari创始人](研究框架/领域划分/技术-工匠型/案例库/Suwandi_Soh_从精益六西格玛顾问到Mekari创始人.md) | Suwandi Soh | Premysis/SSCX精益六西格玛顾问 | Mekari（Sleekr）创始人 | 现当代 | 印度尼西亚雅加达 | ✅ 已完成 |
+| [Julio Guzmán等：从智利工程师到AgendaPro联合创始人](研究框架/领域划分/技术-工匠型/案例库/Julio_Guzman_Sebastian_Hevia_Matias_Ulloa_Nicolas_Rossi_从智利工程师到AgendaPro联合创始人.md) | Julio Guzmán, Sebastián Hevia, Matías Ulloa, Nicolás Rossi | 智利天主教大学/智利大学计算机工程师 | AgendaPro联合创始人 | 现当代 | 智利圣地亚哥 | ✅ 已完成 |
+| [Dado Banatao：从菲律宾农村工程师到硅谷半导体先驱](研究框架/领域划分/技术-工匠型/案例库/Dado_Banatao_从菲律宾农村工程师到硅谷半导体先驱.md) | Diosdado "Dado" Banatao | 菲律宾航空公司工程师→硅谷芯片工程师 | Chips and Technologies/S3 Graphics/Tallwood VC创始人 | 现当代 | 菲律宾/美国硅谷 | ✅ 已完成 |
+| [Carlos Eduardo Botero等：从电信工程师到软件外包先驱](研究框架/领域划分/技术-工匠型/案例库/哥伦比亚技术-工匠型创业者案例_从电信工程师到软件外包先驱.md) | Carlos Eduardo Botero, Alberto Yepes, Santiago Jaramillo | 哥伦比亚电信公司（Telecom）软件工程师 | Sophos Solutions/Lulo Bank联合创始人 | 现当代 | 哥伦比亚波哥大 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
