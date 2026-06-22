@@ -72,6 +72,8 @@
 | [Wolfgang Platz：从Capgemini技术负责人到Tricentis创始人](研究框架/领域划分/技术-工匠型/案例库/Wolfgang_Platz_从Capgemini技术负责人到Tricentis创始人.md) | Wolfgang Platz | Capgemini信息技术开发负责人 | Tricentis创始人兼CSO | 现当代 | 奥地利维也纳 | ✅ 已完成 |
 | [Bernd Greifeneder：从格拉茨技术大学学生到Dynatrace创始人](研究框架/领域划分/技术-工匠型/案例库/Bernd_Greifeneder_从格拉茨技术大学学生到Dynatrace创始人.md) | Bernd Greifeneder | 格拉茨技术大学学生/性能优化顾问 | Dynatrace创始人兼CTO | 现当代 | 奥地利林茨 | ✅ 已完成 |
 | [Jordi Romero等：从Redbooth工程师到Factorial联合创始人](研究框架/领域划分/技术-工匠型/案例库/Jordi_Romero_Pau_Ramon_Bernat_Farrero_从Redbooth工程师到Factorial联合创始人.md) | Jordi Romero, Pau Ramón, Bernat Farrero | Redbooth（Teambox）CTO/工程师 | Factorial联合创始人 | 现当代 | 西班牙巴塞罗那 | ✅ 已完成 |
+| [Peter Arvai等：从布达佩斯大学到Prezi联合创始人](研究框架/领域划分/技术-工匠型/案例库/Peter_Arvai_Peter_Halacsy_Adam_Somlai-Fischer_从布达佩斯大学到Prezi联合创始人.md) | Peter Arvai, Peter Halácsy, Ádám Somlai-Fischer | 斯德哥尔摩大学MBA/布达佩斯科技经济大学助理教授/建筑师 | Prezi联合创始人 | 现当代 | 匈牙利布达佩斯 | ✅ 已完成 |
+| [Nikos Moraitakis与Spyros Magiatis：从Upstream工程师到Workable联合创始人](研究框架/领域划分/技术-工匠型/案例库/Nikos_Moraitakis_Spyros_Magiatis_从Upstream工程师到Workable联合创始人.md) | Nikos Moraitakis & Spyros Magiatis | 安永IT咨询/Upstream高管/Upstream软件开发总监 | Workable联合创始人 | 现当代 | 希腊雅典 | ✅ 已完成 |
 | [Suwandi Soh：从精益六西格玛顾问到Mekari创始人](研究框架/领域划分/技术-工匠型/案例库/Suwandi_Soh_从精益六西格玛顾问到Mekari创始人.md) | Suwandi Soh | Premysis/SSCX精益六西格玛顾问 | Mekari（Sleekr）创始人 | 现当代 | 印度尼西亚雅加达 | ✅ 已完成 |
 
 **待收录方向**：
