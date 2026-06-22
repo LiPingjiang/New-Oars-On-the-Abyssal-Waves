@@ -66,6 +66,10 @@
 | [Chu Jenn Weng：从HP马来西亚工程师到ViTrox创始人](研究框架/领域划分/技术-工匠型/案例库/Chu_Jenn_Weng_从HP马来西亚工程师到ViTrox创始人.md) | Chu Jenn Weng | HP Malaysia专业工程师 | ViTrox创始人兼CEO | 现当代 | 马来西亚槟城 | ✅ 已完成 |
 | [Nuno Sebastião等：从Siemens工程师到Feedzai创始人](研究框架/领域划分/技术-工匠型/案例库/葡萄牙技术-工匠型创业者案例_从Siemens工程师到Feedzai创始人.md) | Nuno Sebastião, Paulo Marques, Pedro Bizarro | Siemens葡萄牙研发中心工程师/研究员 | Feedzai联合创始人 | 现当代 | 葡萄牙科英布拉/里斯本 | ✅ 已完成 |
 | [Josef Průša：从布拉格经济大学学生到Prusa Research创始人](研究框架/领域划分/技术-工匠型/案例库/Josef_Prusa_从布拉格经济大学学生到Prusa_Research创始人.md) | Josef Průša | 布拉格经济大学学生/RepRap社区贡献者 | Prusa Research创始人兼CEO | 现当代 | 捷克布拉格 | ✅ 已完成 |
+| [Samuel Müller与Christian Floerkemeier：从IBM/ETH研究者到Scandit联合创始人](研究框架/领域划分/技术-工匠型/案例库/Samuel_Mueller_Christian_Floerkemeier_从IBM_ETH研究者到Scandit联合创始人.md) | Samuel Müller & Christian Floerkemeier | IBM苏黎世研究实验室研究员/ETH Zurich博士 | Scandit联合创始人 | 现当代 | 瑞士苏黎世 | ✅ 已完成 |
+| [Wolfgang Platz：从Capgemini技术负责人到Tricentis创始人](研究框架/领域划分/技术-工匠型/案例库/Wolfgang_Platz_从Capgemini技术负责人到Tricentis创始人.md) | Wolfgang Platz | Capgemini信息技术开发负责人 | Tricentis创始人兼CSO | 现当代 | 奥地利维也纳 | ✅ 已完成 |
+| [Jordi Romero等：从Redbooth工程师到Factorial联合创始人](研究框架/领域划分/技术-工匠型/案例库/Jordi_Romero_Pau_Ramon_Bernat_Farrero_从Redbooth工程师到Factorial联合创始人.md) | Jordi Romero, Pau Ramón, Bernat Farrero | Redbooth（Teambox）CTO/工程师 | Factorial联合创始人 | 现当代 | 西班牙巴塞罗那 | ✅ 已完成 |
+| [Suwandi Soh：从精益六西格玛顾问到Mekari创始人](研究框架/领域划分/技术-工匠型/案例库/Suwandi_Soh_从精益六西格玛顾问到Mekari创始人.md) | Suwandi Soh | Premysis/SSCX精益六西格玛顾问 | Mekari（Sleekr）创始人 | 现当代 | 印度尼西亚雅加达 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
