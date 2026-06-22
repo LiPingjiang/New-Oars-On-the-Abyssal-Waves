@@ -80,6 +80,13 @@
 | [Carlos Eduardo Botero等：从电信工程师到软件外包先驱](研究框架/领域划分/技术-工匠型/案例库/哥伦比亚技术-工匠型创业者案例_从电信工程师到软件外包先驱.md) | Carlos Eduardo Botero, Alberto Yepes, Santiago Jaramillo | 哥伦比亚电信公司（Telecom）软件工程师 | Sophos Solutions/Lulo Bank联合创始人 | 现当代 | 哥伦比亚波哥大 | ✅ 已完成 |
 | [Sanjiva Weerawarana：从IBM研究员到WSO2创始人](研究框架/领域划分/技术-工匠型/案例库/Sanjiva_Weerawarana_从IBM研究员到WSO2创始人.md) | Sanjiva Weerawarana | IBM T.J. Watson研究中心研究员 | WSO2创始人/CEO | 现当代 | 斯里兰卡科伦坡 | ✅ 已完成 |
 | [Hussain Elius：从达卡大学生到Pathao超级应用创始人](研究框架/领域划分/技术-工匠型/案例库/Hussain_Elius_从达卡大学生到Pathao超级应用创始人.md) | Hussain Mohammed Elius | 达卡科技公司产品经理/工程师 | Pathao/Fin.com联合创始人 | 现当代 | 孟加拉国达卡 | ✅ 已完成 |
+| [Tony Fadell：从General Magic工程师到iPod之父到Nest创始人](研究框架/领域划分/技术-工匠型/案例库/Tony_Fadell_从General_Magic工程师到iPod之父到Nest创始人.md) | Tony Fadell | General Magic/Philips/Apple工程师/设计师 | Nest联合创始人 | 现当代 | 美国硅谷 | ✅ 已完成 |
+| [Ben Horowitz：从Netscape工程师到Loudcloud/Opsware创始人到a16z联合创始人](研究框架/领域划分/技术-工匠型/案例库/Ben_Horowitz_从Netscape工程师到Loudcloud_Opsware创始人到a16z联合创始人.md) | Ben Horowitz | Netscape产品经理/工程师 | Loudcloud/Opsware联合创始人、a16z联合创始人 | 现当代 | 美国硅谷 | ✅ 已完成 |
+| [Max Levchin：从乌克兰移民到PayPal联合创始人到Affirm创始人](研究框架/领域划分/技术-工匠型/案例库/Max_Levchin_从乌克兰移民到PayPal联合创始人到Affirm创始人.md) | Max Levchin | UIUC/Netscape工程师 | PayPal联合创始人、Affirm创始人 | 现当代 | 美国硅谷 | ✅ 已完成 |
+| [稲盛和夫：从鹿儿岛陶瓷工程师到京瓷创始人到KDDI创始人](研究框架/领域划分/技术-工匠型/案例库/稲盛和夫_从鹿儿岛陶瓷工程师到京瓷创始人到KDDI创始人.md) | 稲盛和夫（Kazuo Inamori） | 松风工业陶瓷工程师 | 京瓷创始人、KDDI创始人 | 现当代 | 日本鹿儿岛/京都 | ✅ 已完成 |
+| [郑周永：从贫困建筑工人到现代集团创始人](研究框架/领域划分/技术-工匠型/案例库/郑周永_从贫困建筑工人到现代集团创始人.md) | 郑周永（Chung Ju-yung） | 建筑工人/米店学徒 | 现代集团创始人 | 现当代 | 韩国江原道/首尔 | ✅ 已完成 |
+| [Daniel Ek：从瑞典程序员到Spotify联合创始人](研究框架/领域划分/技术-工匠型/案例库/Daniel_Ek_从瑞典程序员到Spotify联合创始人.md) | Daniel Ek | 少年程序员/Advertigo创始人 | Spotify联合创始人 | 现当代 | 瑞典斯德哥尔摩 | ✅ 已完成 |
+| [王传福：从电池工程师到比亚迪创始人](研究框架/领域划分/技术-工匠型/案例库/王传福_从电池工程师到比亚迪创始人.md) | 王传福 | 北京有色金属研究总院电池工程师 | 比亚迪创始人 | 现当代 | 中国深圳 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
