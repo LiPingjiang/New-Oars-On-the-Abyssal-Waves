@@ -78,6 +78,8 @@
 | [Julio Guzmán等：从智利工程师到AgendaPro联合创始人](研究框架/领域划分/技术-工匠型/案例库/Julio_Guzman_Sebastian_Hevia_Matias_Ulloa_Nicolas_Rossi_从智利工程师到AgendaPro联合创始人.md) | Julio Guzmán, Sebastián Hevia, Matías Ulloa, Nicolás Rossi | 智利天主教大学/智利大学计算机工程师 | AgendaPro联合创始人 | 现当代 | 智利圣地亚哥 | ✅ 已完成 |
 | [Dado Banatao：从菲律宾农村工程师到硅谷半导体先驱](研究框架/领域划分/技术-工匠型/案例库/Dado_Banatao_从菲律宾农村工程师到硅谷半导体先驱.md) | Diosdado "Dado" Banatao | 菲律宾航空公司工程师→硅谷芯片工程师 | Chips and Technologies/S3 Graphics/Tallwood VC创始人 | 现当代 | 菲律宾/美国硅谷 | ✅ 已完成 |
 | [Carlos Eduardo Botero等：从电信工程师到软件外包先驱](研究框架/领域划分/技术-工匠型/案例库/哥伦比亚技术-工匠型创业者案例_从电信工程师到软件外包先驱.md) | Carlos Eduardo Botero, Alberto Yepes, Santiago Jaramillo | 哥伦比亚电信公司（Telecom）软件工程师 | Sophos Solutions/Lulo Bank联合创始人 | 现当代 | 哥伦比亚波哥大 | ✅ 已完成 |
+| [Sanjiva Weerawarana：从IBM研究员到WSO2创始人](研究框架/领域划分/技术-工匠型/案例库/Sanjiva_Weerawarana_从IBM研究员到WSO2创始人.md) | Sanjiva Weerawarana | IBM T.J. Watson研究中心研究员 | WSO2创始人/CEO | 现当代 | 斯里兰卡科伦坡 | ✅ 已完成 |
+| [Hussain Elius：从达卡大学生到Pathao超级应用创始人](研究框架/领域划分/技术-工匠型/案例库/Hussain_Elius_从达卡大学生到Pathao超级应用创始人.md) | Hussain Mohammed Elius | 达卡科技公司产品经理/工程师 | Pathao/Fin.com联合创始人 | 现当代 | 孟加拉国达卡 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
