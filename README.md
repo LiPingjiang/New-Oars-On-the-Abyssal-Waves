@@ -107,6 +107,9 @@
 | [Derek Sivers：从音乐家到CD Baby创始人](研究框架/领域划分/技术-工匠型/案例库/Derek_Sivers_从音乐家到CD_Baby创始人.md) | Derek Sivers | 职业音乐人/马戏团小丑/唱片店店员 | CD Baby创始人 | 现当代 | 美国波特兰 | ✅ 已完成 |
 | [Pieter Levels：从DJ到一人公司创始人](研究框架/领域划分/技术-工匠型/案例库/Pieter_Levels_从DJ到一人公司创始人.md) | Pieter Levels | 电子音乐制作人/DJ/YouTube运营者 | Nomad List/Remote OK创始人 | 现当代 | 荷兰/全球数字游民 | ✅ 已完成 |
 | [Arvid Kahl：从软件工程师到FeedbackPanda创始人](研究框架/领域划分/技术-工匠型/案例库/Arvid_Kahl_从软件工程师到FeedbackPanda创始人.md) | Arvid Kahl | 软件工程师/技术顾问 | FeedbackPanda联合创始人 | 现当代 | 德国柏林 | ✅ 已完成 |
+| [Marc Lou：从法国工程师到年入百万Indie Hacker](研究框架/领域划分/技术-工匠型/案例库/Marc_Lou_从法国工程师到年入百万Indie_Hacker.md) | Marc Louvion | 法国大型企业软件开发工程师 | ShipFast/AI Wrapper创始人 | 现当代 | 法国/巴厘岛 | ✅ 已完成 |
+| [Sebastian Röhl：从德国工程师到HabitKit创始人](研究框架/领域划分/技术-工匠型/案例库/Sebastian_Röhl_从德国工程师到HabitKit创始人.md) | Sebastian Röhl | 德国企业级软件开发工程师 | HabitKit创始人 | 现当代 | 德国 | ✅ 已完成 |
+| [David Park：从父母地下室到AI公司创始人](研究框架/领域划分/技术-工匠型/案例库/David_Park_从父母地下室到AI公司创始人.md) | David Park | 失业创业者/父母地下室居住者 | Jenni AI创始人 | 现当代 | 美国（韩裔） | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
