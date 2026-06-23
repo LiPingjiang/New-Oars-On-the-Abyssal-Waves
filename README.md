@@ -110,6 +110,9 @@
 | [Marc Lou：从法国工程师到年入百万Indie Hacker](研究框架/领域划分/技术-工匠型/案例库/Marc_Lou_从法国工程师到年入百万Indie_Hacker.md) | Marc Louvion | 法国大型企业软件开发工程师 | ShipFast/AI Wrapper创始人 | 现当代 | 法国/巴厘岛 | ✅ 已完成 |
 | [Sebastian Röhl：从德国工程师到HabitKit创始人](研究框架/领域划分/技术-工匠型/案例库/Sebastian_Röhl_从德国工程师到HabitKit创始人.md) | Sebastian Röhl | 德国企业级软件开发工程师 | HabitKit创始人 | 现当代 | 德国 | ✅ 已完成 |
 | [David Park：从父母地下室到AI公司创始人](研究框架/领域划分/技术-工匠型/案例库/David_Park_从父母地下室到AI公司创始人.md) | David Park | 失业创业者/父母地下室居住者 | Jenni AI创始人 | 现当代 | 美国（韩裔） | ✅ 已完成 |
+| [Keisuke：日本独行iOS开发者与24款应用](研究框架/领域划分/技术-工匠型/案例库/Keisuke_日本独行iOS开发者与24款应用.md) | Keisuke（KeiK） | 独行iOS开发者 | 24款iOS应用创始人 | 现当代 | 日本 | ✅ 已完成 |
+| [金润后：韩国1人开发者与全球200万下载](研究框架/领域划分/技术-工匠型/案例库/金润后_韩国1人开发者与全球200万下载.md) | 金润后（김윤후） | 小型创业公司后端工程师 | 全球断食追踪应用等16款应用创始人 | 现当代 | 韩国 | ✅ 已完成 |
+| [Bhanu Teja：从印度IIT学生到百万美元AI业务](研究框架/领域划分/技术-工匠型/案例库/Bhanu_Teja_从印度IIT学生到百万美元AI业务.md) | Bhanu Teja Pachipulusu | IIIT学生/软件工程师 | Feather/SiteGPT创始人 | 现当代 | 印度 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
