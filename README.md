@@ -93,6 +93,7 @@
 | [Stewart Butterfield：从游戏开发者到Flickr/Slack创始人](研究框架/领域划分/技术-工匠型/案例库/Stewart_Butterfield_从游戏开发者到Flickr_Slack创始人.md) | Stewart Butterfield | Graduate.com网站设计师/游戏开发者 | Flickr联合创始人、Slack联合创始人 | 现当代 | 加拿大/美国 | ✅ 已完成 |
 | [Ben Chestnut与Dan Kurzius：从网页设计师到Mailchimp创始人](研究框架/领域划分/技术-工匠型/案例库/Ben_Chestnut_Dan_Kurzius_从网页设计师到Mailchimp创始人.md) | Ben Chestnut & Dan Kurzius | 网页设计师/网页设计公司创始人 | Mailchimp联合创始人 | 现当代 | 美国亚特兰大 | ✅ 已完成 |
 | [Mike Cannon-Brookes与Scott Farquhar：从悉尼大学生到Atlassian联合创始人](研究框架/领域划分/技术-工匠型/案例库/Mike_Cannon-Brookes_Scott_Farquhar_从悉尼大学生到Atlassian联合创始人.md) | Mike Cannon-Brookes & Scott Farquhar | 新南威尔士大学计算机科学学生 | Atlassian联合创始人 | 现当代 | 澳大利亚悉尼 | ✅ 已完成 |
+| [Ivan Zhao：从认知科学学生到Notion创始人](研究框架/领域划分/技术-工匠型/案例库/Ivan_Zhao_从认知科学学生到Notion创始人.md) | Ivan Zhao（赵伊万） | 不列颠哥伦比亚大学认知科学学生 | Notion联合创始人兼CEO | 现当代 | 美国旧金山/日本京都 | ✅ 已完成 |
 | [日本技术-工匠型创业者：从工程师到隐形冠军创始人](研究框架/领域划分/技术-工匠型/案例库/日本技术-工匠型创业者案例_从工程师到隐形冠军创始人.md) | 日本工程师群体 | 丰田/索尼/松下/日立等大企业工程师 | 隐形冠军型中小企业创始人 | 现当代 | 日本 | ✅ 已完成 |
 | [韩国技术-工匠型创业者：从财阀工程师到创业公司创始人](研究框架/领域划分/技术-工匠型/案例库/韩国技术-工匠型创业者案例_从财阀工程师到创业公司创始人.md) | 韩国工程师群体 | 三星/现代/LG等财阀工程师 | 技术创业公司创始人 | 现当代 | 韩国 | ✅ 已完成 |
 | [中国技术-工匠型创业者：从工程师到专精特新创始人](研究框架/领域划分/技术-工匠型/案例库/中国技术-工匠型创业者案例_从工程师到专精特新创始人.md) | 中国工程师群体 | 华为/中兴/联想/海尔等大企业工程师 | 专精特新型中小企业创始人 | 现当代 | 中国 | ✅ 已完成 |
