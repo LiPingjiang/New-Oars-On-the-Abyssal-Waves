@@ -80,6 +80,10 @@
 | [Carlos Eduardo Botero等：从电信工程师到软件外包先驱](研究框架/领域划分/技术-工匠型/案例库/哥伦比亚技术-工匠型创业者案例_从电信工程师到软件外包先驱.md) | Carlos Eduardo Botero, Alberto Yepes, Santiago Jaramillo | 哥伦比亚电信公司（Telecom）软件工程师 | Sophos Solutions/Lulo Bank联合创始人 | 现当代 | 哥伦比亚波哥大 | ✅ 已完成 |
 | [Sanjiva Weerawarana：从IBM研究员到WSO2创始人](研究框架/领域划分/技术-工匠型/案例库/Sanjiva_Weerawarana_从IBM研究员到WSO2创始人.md) | Sanjiva Weerawarana | IBM T.J. Watson研究中心研究员 | WSO2创始人/CEO | 现当代 | 斯里兰卡科伦坡 | ✅ 已完成 |
 | [Hussain Elius：从达卡大学生到Pathao超级应用创始人](研究框架/领域划分/技术-工匠型/案例库/Hussain_Elius_从达卡大学生到Pathao超级应用创始人.md) | Hussain Mohammed Elius | 达卡科技公司产品经理/工程师 | Pathao/Fin.com联合创始人 | 现当代 | 孟加拉国达卡 | ✅ 已完成 |
+| [Ben Chestnut与Dan Kurzius：从网页设计师到Mailchimp创始人](研究框架/领域划分/技术-工匠型/案例库/Ben_Chestnut_Dan_Kurzius_从网页设计师到Mailchimp创始人.md) | Ben Chestnut & Dan Kurzius | 网页设计师/客户服务 | Mailchimp联合创始人 | 现当代 | 美国亚特兰大 | ✅ 已完成 |
+| [Mike Cannon-Brookes与Scott Farquhar：从悉尼大学生到Atlassian联合创始人](研究框架/领域划分/技术-工匠型/案例库/Mike_Cannon-Brookes_Scott_Farquhar_从悉尼大学生到Atlassian联合创始人.md) | Mike Cannon-Brookes & Scott Farquhar | 新南威尔士大学计算机科学学生 | Atlassian联合创始人 | 现当代 | 澳大利亚悉尼 | ✅ 已完成 |
+| [Ivan Zhao：从认知科学学生到Notion创始人](研究框架/领域划分/技术-工匠型/案例库/Ivan_Zhao_从认知科学学生到Notion创始人.md) | Ivan Zhao（赵伊万） | 认知科学学生/网页设计师 | Notion联合创始人兼CEO | 现当代 | 美国旧金山/日本京都 | ✅ 已完成 |
+| [Stewart Butterfield：从游戏开发者到Flickr/Slack创始人](研究框架/领域划分/技术-工匠型/案例库/Stewart_Butterfield_从游戏开发者到Flickr_Slack创始人.md) | Stewart Butterfield | 网页设计师/游戏开发者 | Flickr联合创始人、Slack联合创始人 | 现当代 | 加拿大/美国 | ✅ 已完成 |
 | [Tony Fadell：从General Magic工程师到iPod之父到Nest创始人](研究框架/领域划分/技术-工匠型/案例库/Tony_Fadell_从General_Magic工程师到iPod之父到Nest创始人.md) | Tony Fadell | General Magic/Philips/Apple工程师/设计师 | Nest联合创始人 | 现当代 | 美国硅谷 | ✅ 已完成 |
 | [Ben Horowitz：从Netscape工程师到Loudcloud/Opsware创始人到a16z联合创始人](研究框架/领域划分/技术-工匠型/案例库/Ben_Horowitz_从Netscape工程师到Loudcloud_Opsware创始人到a16z联合创始人.md) | Ben Horowitz | Netscape产品经理/工程师 | Loudcloud/Opsware联合创始人、a16z联合创始人 | 现当代 | 美国硅谷 | ✅ 已完成 |
 | [Max Levchin：从乌克兰移民到PayPal联合创始人到Affirm创始人](研究框架/领域划分/技术-工匠型/案例库/Max_Levchin_从乌克兰移民到PayPal联合创始人到Affirm创始人.md) | Max Levchin | UIUC/Netscape工程师 | PayPal联合创始人、Affirm创始人 | 现当代 | 美国硅谷 | ✅ 已完成 |
