@@ -113,11 +113,44 @@
 | [Keisuke：日本独行iOS开发者与24款应用](研究框架/领域划分/技术-工匠型/案例库/Keisuke_日本独行iOS开发者与24款应用.md) | Keisuke（KeiK） | 独行iOS开发者 | 24款iOS应用创始人 | 现当代 | 日本 | ✅ 已完成 |
 | [金润后：韩国1人开发者与全球200万下载](研究框架/领域划分/技术-工匠型/案例库/金润后_韩国1人开发者与全球200万下载.md) | 金润后（김윤후） | 小型创业公司后端工程师 | 全球断食追踪应用等16款应用创始人 | 现当代 | 韩国 | ✅ 已完成 |
 | [Bhanu Teja：从印度IIT学生到百万美元AI业务](研究框架/领域划分/技术-工匠型/案例库/Bhanu_Teja_从印度IIT学生到百万美元AI业务.md) | Bhanu Teja Pachipulusu | IIIT学生/软件工程师 | Feather/SiteGPT创始人 | 现当代 | 印度 | ✅ 已完成 |
+| [Sara Blakely：从传真机销售员到Spanx白手起家十亿美元品牌](研究框架/领域划分/技术-工匠型/案例库/Sara_Blakely_从传真机销售员到Spanx白手起家十亿美元品牌.md) | Sara Blakely | 传真机推销员 | Spanx创始人 | 现当代 | 美国 | ✅ 已完成 |
+| [Marie Poulin：从交互设计师到Notion Mastery年入$468K](研究框架/领域划分/技术-工匠型/案例库/Marie_Poulin_从交互设计师到Notion_Mastery年入468K的Bootstrap创业者.md) | Marie Poulin | 交互设计师/自由职业者 | Notion Mastery创始人 | 现当代 | 加拿大 | ✅ 已完成 |
+| [汪近圣：从墨店学徒到清代徽墨四大家之"鉴古斋"创始人](研究框架/领域划分/技术-工匠型/案例库/汪近圣_从墨店学徒到清代徽墨四大家之鉴古斋创始人.md) | 汪近圣 | 曹素功墨店桌墨工 | 鉴古斋墨店创始人 | 前近代 | 中国徽州 | ✅ 已完成 |
+| [胡开文：从墨店学徒到盘下倒闭店铺创立七代传承墨业帝国](研究框架/领域划分/技术-工匠型/案例库/胡开文_从墨店学徒到盘下倒闭店铺创立七代传承墨业帝国.md) | 胡天柱（胡开文） | 汪启茂墨店学徒/女婿 | 胡开文墨庄创始人 | 前近代 | 中国徽州 | ✅ 已完成 |
+| [张謇：从状元翰林到近代中国实业救国第一人](研究框架/领域划分/技术-工匠型/案例库/张謇_从状元翰林到近代中国实业救国第一人.md) | 张謇 | 翰林院修撰（状元） | 大生纱厂/大生集团创始人 | 近代 | 中国南通 | ✅ 已完成 |
+| [陈鸿昌：从人大毕业生到返乡创业新农人——京康现代农业创始人](研究框架/领域划分/技术-工匠型/案例库/陈鸿昌_从人大毕业生到返乡创业新农人_京康现代农业创始人.md) | 陈鸿昌 | 北京城市白领/人大毕业生 | 京康现代农业创始人 | 现当代 | 中国安康 | ✅ 已完成 |
+| [Iam C. Tucker：从巴吞鲁日警察到SBA全国年度小企业人物——ILSI Engineering创始人](研究框架/领域划分/技术-工匠型/案例库/Iam_C_Tucker_从巴吞鲁日警察到SBA全国年度小企业人物_ILSI_Engineering创始人.md) | Iam C. Tucker | 巴吞鲁日警察 | ILSI Engineering创始人兼CEO | 现当代 | 美国路易斯安那州 | ✅ 已完成 |
+| [Hannes Seidel：从木工学徒到KfW Award Gründen传承奖得主——Hodapp木工坊接班人](研究框架/领域划分/技术-工匠型/案例库/Hannes_Seidel_从木工学徒到KfW_Award_Gründen传承奖得主_Hodapp木工坊接班人.md) | Hannes Seidel | Hodapp木工坊学徒/实习生 | Hodapp木工坊所有者/总经理 | 现当代 | 德国萨尔州 | ✅ 已完成 |
+| [Hammy Obikoya：从失业顾问到Start Up Loans大使——Mama Bobo Africa创始人](研究框架/领域划分/技术-工匠型/案例库/Hammy_Obikoya_从失业顾问到Start_Up_Loans大使_Mama_Bobo_Africa创始人.md) | Hammy Obikoya | 商业顾问 | Mama Bobo Africa创始人 | 现当代 | 英国北爱尔兰 | ✅ 已完成 |
+| [Zoe：从自闭症倦怠到循环经济创业者——澳大利亚Workforce Australia典型人物](研究框架/领域划分/技术-工匠型/案例库/Zoe_从自闭症倦怠到循环经济创业者_澳大利亚Workforce_Australia典型人物.md) | Zoe | 自闭症倦怠期求助者/失业状态 | Bloom Cycle创始人兼创意总监 | 现当代 | 澳大利亚布里斯班 | ✅ 已完成 |
+| [Vitalii Sydorenko：从乌克兰农产品从业者到Yarofruit创始人——EU4Business战时创业典型人物](研究框架/领域划分/技术-工匠型/案例库/Vitalii_Sydorenko_从乌克兰农产品从业者到Yarofruit创始人_EU4Business战时创业典型人物.md) | Vitalii Sydorenko | 乌克兰农产品行业从业者 | Yarofruit LLC创始人兼董事总经理 | 现当代 | 乌克兰西部 | ✅ 已完成 |
+| [Lee Ji-eun：从清州银行职员到传统市场饺子店CEO——韩国MSS K-Food出海典型人物](研究框架/领域划分/技术-工匠型/案例库/Lee_Ji-eun_从清州银行职员到传统市场饺子店CEO_韩国MSS_K-Food出海典型人物.md) | Lee Ji-eun（이지은） | 银行职员 | 清州肉桂里知名饺子（Yukgeori Somunnan Mandu）CEO | 现当代 | 韩国忠清北道 | ✅ 已完成 |
+| [Byron & Dexter Peart：从蒙特利尔设计师到Goodee联合创始人——加拿大BDC 2024小企业周代言人](研究框架/领域划分/技术-工匠型/案例库/Byron_Dexter_Peart_从蒙特利尔设计师到Goodee联合创始人_加拿大BDC_2024小企业周代言人.md) | Byron Peart & Dexter Peart | 时装设计师（WANT Les Essentiels联合创始人） | Goodee联合创始人兼联合CEO | 现当代 | 加拿大蒙特利尔 | ✅ 已完成 |
+| [Aneesa Waheed：从纽约出版业白领到Tara Kitchen创始人——美国SBA 2024纽约州年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Aneesa_Waheed_从纽约出版业白领到Tara_Kitchen创始人_美国SBA_2024纽约州年度小企业人物.md) | Aneesa Waheed | 纽约市印刷出版业职员（14年） | Tara Kitchen创始人兼行政主厨 | 现当代 | 美国纽约州 | ✅ 已完成 |
+| [HIKAKIN：从超市店员到日本顶级YouTuber/UUUM创始人](研究框架/领域划分/技术-工匠型/案例库/HIKAKIN_从超市店员到日本顶级YouTuber_UUUM创始人.md) | HIKAKIN（藤岡幹太） | 超市"吉池"店员（月薪13万日元） | YouTuber/UUUM株式会社创始人 | 现当代 | 日本东京 | ✅ 已完成 |
+| [Josh Schmieder：从高中生推草机到纽约州SBA年度小企业人物——Josh Landscape创始人](研究框架/领域划分/技术-工匠型/案例库/Josh_Schmieder_从高中生推草机到纽约州SBA年度小企业人物_Josh_Landscape创始人.md) | Josh Schmieder | 高中生推草机兼职（为攒钱买卡车） | Josh Landscape Co.创始人兼总裁 | 现当代 | 美国纽约州 | ✅ 已完成 |
+| [Ameka Coleman：从临床研究员到Strands of Faith创始人——密西西比州SBA小企业年度人物](研究框架/领域划分/技术-工匠型/案例库/Ameka_Coleman_从临床研究员到Strands_of_Faith创始人_密西西比州SBA小企业年度人物.md) | Ameka Coleman | PPD制药合同研究组织临床研究员 | Strands of Faith创始人兼CEO | 现当代 | 美国密西西比州 | ✅ 已完成 |
+| [Saul Press：从疫情期间失业到英国最小酒类专卖店创始人——英国Start Up Loans 2025年度大使](研究框架/领域划分/技术-工匠型/案例库/Saul_Press_从疫情期间失业到英国最小酒类专卖店创始人_英国Start_Up_Loans_2025年度大使.md) | Saul Press | 疫情期间失业（前IT项目经理） | The Littlest Bottle Shop创始人 | 现当代 | 英国伦敦 | ✅ 已完成 |
+| [Romane & Victorien Vilmard：从26岁年轻雇员到乡村面包店主——法国France Active乡村创业典型人物](研究框架/领域划分/技术-工匠型/案例库/Romane_Victorien_Vilmard_从26岁年轻雇员到乡村面包店主_法国France_Active乡村创业典型人物.md) | Romane & Victorien Vilmard | 26岁年轻雇员（面包店学徒/工程师） | Boulangerie Vilmard创始人 | 现当代 | 法国勃艮第 | ✅ 已完成 |
+| [Michelle Nicholson：从全职妈妈到The Flour Girl Bakery创始人——美国SBA 2025康涅狄格州年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Michelle_Nicholson_从全职妈妈到The_Flour_Girl_Bakery创始人_美国SBA_2025康涅狄格州年度小企业人物.md) | Michelle Nicholson | 全职妈妈（前企业高管） | The Flour Girl Bakery创始人兼CEO | 现当代 | 美国康涅狄格州 | ✅ 已完成 |
+| [Yanet Herrero：从古巴裔移民到Kings Service Solutions创始人——美国SBA 2024佛罗里达州年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Yanet_Herrero_从古巴裔移民到Kings_Service_Solutions创始人_美国SBA_2024佛罗里达州年度小企业人物.md) | Yanet Herrero | 古巴裔移民（前酒店客房服务主管） | Kings Service Solutions创始人兼CEO | 现当代 | 美国佛罗里达州 | ✅ 已完成 |
+| [Rosie Elvin：从ADHD诊断到ADHD Focus创始人——英国Start Up Loans 2025年度大使](研究框架/领域划分/技术-工匠型/案例库/Rosie_Elvin_从ADHD诊断到ADHD_Focus创始人_英国Start_Up_Loans_2025年度大使.md) | Rosie Elvin | 建筑学讲师/学术研究员（16年） | ADHD Focus创始人兼教练 | 现当代 | 英国林肯郡 | ✅ 已完成 |
+| [Alex Walker：从披萨店创业者到Awesome Franks创始人——英国Start Up Loans 2025年度大使](研究框架/领域划分/技术-工匠型/案例库/Alex_Walker_从披萨店创业者到Awesome_Franks创始人_英国Start_Up_Loans_2025年度大使.md) | Alex Walker | Scream for Pizza联合创始人 | Awesome Franks创始人兼CEO | 现当代 | 英国纽卡斯尔 | ✅ 已完成 |
+| [Mike Gore：从退伍军人到Virtuoso Golf创始人——英国Start Up Loans 2025年度大使](研究框架/领域划分/技术-工匠型/案例库/Mike_Gore_从退伍军人到Virtuoso_Golf创始人_英国Start_Up_Loans_2025年度大使.md) | Mike Gore | 英国军队服役13年/海上石油平台17年 | Virtuoso Golf创始人兼总监 | 现当代 | 英国圣海伦斯 | ✅ 已完成 |
+| [Terence Chung：从帝国理工毕业生到Nuoceans创始人——英国Start Up Loans 2025年度大使](研究框架/领域划分/技术-工匠型/案例库/Terence_Chung_从帝国理工毕业生到Nuoceans创始人_英国Start_Up_Loans_2025年度大使.md) | Terence Chung | 帝国理工学院毕业生 | Nuoceans创始人兼CEO | 现当代 | 英国汉普郡 | ✅ 已完成 |
+| [何爱：从大学生到丘北耕喽食品创始人——中国人社部返乡创业典型案例](研究框架/领域划分/技术-工匠型/案例库/何爱_从大学生到丘北耕喽食品创始人_中国人社部返乡创业典型案例.md) | 何爱 | 大学毕业生/农村淘宝从业者 | 丘北耕喽食品有限责任公司创始人 | 现当代 | 中国云南 | ✅ 已完成 |
+| [明瑞星：从"阳新鞋匠"到可兴鞋业创始人——中国人社部劳务品牌领军企业](研究框架/领域划分/技术-工匠型/案例库/明瑞星_从阳新鞋匠到可兴鞋业创始人_中国人社部劳务品牌领军企业.md) | 明瑞星 | 外出务工鞋匠（浙江/福建制鞋厂） | 湖北可兴鞋业有限公司创始人 | 现当代 | 中国湖北 | ✅ 已完成 |
+| [Drew Simpson：从海军陆战队退伍军人到Amerivet Contracting创始人——美国SBA 2023加州年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Drew_Simpson_从海军陆战队退伍军到Amerivet_Contracting创始人_美国SBA_2023加州年度小企业人物.md) | Drew Simpson | 美国海军陆战队退伍军人/建筑行业工头 | Amerivet Contracting创始人兼总裁 | 现当代 | 美国加州 | ✅ 已完成 |
+| [Sharon Hamer：从Yup'ik原住民到Akiak Technology创始人——美国SBA 2023弗吉尼亚州年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Sharon_Hamer_从Yupik原住民到Akiak_Technology创始人_美国SBA_2023弗吉尼亚州年度小企业人物.md) | Sharon Hamer | 美国EPA高级IT管理人员（32年） | Akiak Technology, LLC总裁兼联合创始人 | 现当代 | 美国弗吉尼亚州 | ✅ 已完成 |
+| [Migration Brewing：从精酿啤酒厂到俄勒冈州SBA年度小企业人物——美国SBA 2024](研究框架/领域划分/技术-工匠型/案例库/Migration_Brewing_从精酿啤酒厂到俄勒冈州SBA年度小企业人物_美国SBA_2024.md) | McKean Banzer-Lausberg等 | 市场营销/Peace Corps/酿酒师等 | Migration Brewing联合创始人 | 现当代 | 美国俄勒冈州 | ✅ 已完成 |
+| [Farming Revolution：从农业机器人到KfW Award Gründen 2024联邦冠军——德国](研究框架/领域划分/技术-工匠型/案例库/Farming_Revolution_从农业机器人到KfW_Award_Gründen_2024联邦冠军_德国.md) | Dr. Roland Leidenfrost等 | 农民/工程师/计算机科学家 | Farming Revolution GmbH创始人 | 现当代 | 德国巴登-符腾堡州 | ✅ 已完成 |
+| [Byron & Dexter Peart：从设计师到Goodee联合创始人——加拿大BDC Small Business Week 2024代言人](研究框架/领域划分/技术-工匠型/案例库/Byron_Dexter_Peart_从设计师到Goodee联合创始人_加拿大BDC_Small_Business_Week_2024代言人.md) | Byron & Dexter Peart | 时尚设计师/品牌创始人 | Goodee联合创始人 | 现当代 | 加拿大蒙特利尔 | ✅ 已完成 |
+| [Yandis Ying：从创业者到Dot Dot Tea创始人——英国Start Up Loans 2025年度大使](研究框架/领域划分/技术-工匠型/案例库/Yandis_Ying_从创业者到Dot_Dot_Tea创始人_英国Start_Up_Loans_2025年度大使.md) | Yandis Ying | TableCheck全球创意总监 | Dot Dot Tea联合创始人 | 现当代 | 英国伦敦 | ✅ 已完成 |
 
 **待收录方向**：
-- 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业
-- 近代工业化：工厂技术工人→独立工厂主、江南制造局技术工人自立
-- 前近代：景德镇陶瓷工匠自立窑口、徽州墨工独立开墨坊、江南织工独立设机
+- 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业、拉美/非洲Bootstrap案例
+- 近代工业化：工厂技术工人→独立工厂主、江南制造局技术工人自立、荣氏兄弟（从钱庄学徒到纺织大王）
+- 前近代：景德镇陶瓷工匠自立窑口、江南织工独立设机、欧洲中世纪行会工匠独立开业
 
 ---
 
