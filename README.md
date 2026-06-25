@@ -146,6 +146,12 @@
 | [Farming Revolution：从农业机器人到KfW Award Gründen 2024联邦冠军——德国](研究框架/领域划分/技术-工匠型/案例库/Farming_Revolution_从农业机器人到KfW_Award_Gründen_2024联邦冠军_德国.md) | Dr. Roland Leidenfrost等 | 农民/工程师/计算机科学家 | Farming Revolution GmbH创始人 | 现当代 | 德国巴登-符腾堡州 | ✅ 已完成 |
 | [Byron & Dexter Peart：从设计师到Goodee联合创始人——加拿大BDC Small Business Week 2024代言人](研究框架/领域划分/技术-工匠型/案例库/Byron_Dexter_Peart_从设计师到Goodee联合创始人_加拿大BDC_Small_Business_Week_2024代言人.md) | Byron & Dexter Peart | 时尚设计师/品牌创始人 | Goodee联合创始人 | 现当代 | 加拿大蒙特利尔 | ✅ 已完成 |
 | [Yandis Ying：从创业者到Dot Dot Tea创始人——英国Start Up Loans 2025年度大使](研究框架/领域划分/技术-工匠型/案例库/Yandis_Ying_从创业者到Dot_Dot_Tea创始人_英国Start_Up_Loans_2025年度大使.md) | Yandis Ying | TableCheck全球创意总监 | Dot Dot Tea联合创始人 | 现当代 | 英国伦敦 | ✅ 已完成 |
+| [Abdirahman Kahin：从索马里移民到Afro Deli创始人——美国SBA 2023全国年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Abdirahman_Kahin_从索马里移民到Afro_Deli创始人_美国SBA_2023全国年度小企业人物.md) | Abdirahman Kahin | 索马里移民/餐饮服务业 | Afro Deli & Grill创始人 | 现当代 | 美国明尼苏达州 | ✅ 已完成 |
+| [Iam C. Tucker：从巴吞鲁日警察到ILSI创始人——美国SBA 2024全国年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Iam_C_Tucker_从巴吞鲁日警察到ILSI创始人_美国SBA_2024全国年度小企业人物.md) | Iam C. Tucker | 巴吞鲁日警察局警官 | ILSI创始人兼CEO | 现当代 | 美国路易斯安那州 | ✅ 已完成 |
+| [Heather McDowell：从家庭办公室到Seattle Green Earth Cleaning创始人——美国SBA 2024全国亚军](研究框架/领域划分/技术-工匠型/案例库/Heather_McDowell_从家庭办公室到Seattle_Green_Earth_Cleaning创始人_美国SBA_2024全国亚军.md) | Heather McDowell | 家庭办公室创业者（翻盖手机起步） | Seattle Green Earth Cleaning创始人 | 现当代 | 美国华盛顿州 | ✅ 已完成 |
+| [危李：从五级伤残退役军人到拓福家纺创始人——中国残疾人创业典型](研究框架/领域划分/技术-工匠型/案例库/危李_从五级伤残退役军人到拓福家纺创始人_中国残疾人创业典型.md) | 危李 | 湘运岳阳公司职工/五级伤残退役军人 | 湖南拓福家纺有限公司创始人 | 现当代 | 中国湖南 | ✅ 已完成 |
+| [张顺勇：从IT工程师到返乡养蜂人——中国人社部全国优秀农民工](研究框架/领域划分/技术-工匠型/案例库/张顺勇_从IT工程师到返乡养蜂人_中国人社部全国优秀农民工.md) | 张顺勇 | 深圳/东莞IT工程师 | 贵州张氏兴农业综合开发有限责任公司创始人 | 现当代 | 中国贵州 | ✅ 已完成 |
+| [魏瑾瑾：从大学生到百思农果蔬创始人——中国人社部返乡创业典型](研究框架/领域划分/技术-工匠型/案例库/魏瑾瑾_从大学生到百思农果蔬创始人_中国人社部返乡创业典型.md) | 魏瑾瑾 | 大学毕业生 | 砀山县百思农果蔬种植专业合作社创始人 | 现当代 | 中国安徽 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业、拉美/非洲Bootstrap案例
