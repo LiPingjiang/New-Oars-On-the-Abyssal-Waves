@@ -164,6 +164,14 @@
 | [Zee Azab：从埃及潜水教练到北爱尔兰海岸探险家——英国Start Up Loans大使](研究框架/领域划分/技术-工匠型/案例库/Zee_Azab_从埃及潜水教练到北爱尔兰海岸探险家_英国Start_Up_Loans大使.md) | Zee Azab (Zainab Azab) | 埃及潜水教练/海洋保护主义者 | Aquaholics Surf & Sea Adventures 创始人 | 现当代 | 英国北爱尔兰 | ✅ 已完成 |
 | [Leo Winstanley：从车祸康复到木工大师——英国Start Up Loans大使，英格兰西北](研究框架/领域划分/技术-工匠型/案例库/Leo_Winstanley_从车祸康复到木工大师_英国Start_Up_Loans大使_英格兰西北.md) | Leo Winstanley | 建筑行业背景/车祸康复者 | L W Bespoke Joinery 创始人 | 现当代 | 英国英格兰西北部 | ✅ 已完成 |
 | [Aseem Rawat：从IT总监到牛倌——印度自力更生型有机乳业创业](研究框架/领域划分/技术-工匠型/案例库/Aseem_Rawat_从IT总监到牛倌_印度自力更生型有机乳业创业.md) | Aseem Rawat | IT行业20年/项目管理总监 | Akshayakalpa Organic Dairy 联合创始人 | 现当代 | 印度卡纳塔克邦 | ✅ 已完成 |
+| [Shelley Smith：从爱猫人士到萨福克郡唯一猫咖创始人——英国Start Up Loans 2023年东英格兰大使](研究框架/领域划分/技术-工匠型/案例库/Shelley_Smith_从爱猫人士到萨福克郡唯一猫咖创始人_英国Start_Up_Loans_2023东英格兰大使.md) | Shelley Smith | 终身爱猫人士 | Finnegan's Whiskers创始人 | 现当代 | 英国萨福克郡萨德伯里 | ✅ 已完成 |
+| [Hannah Saunders：从皇家空军军官到龙穴投资赢家——英国Start Up Loans 2022年西南英格兰大使](研究框架/领域划分/技术-工匠型/案例库/Hannah_Saunders_从皇家空军军官到龙穴投资赢家_英国Start_Up_Loans_2022西南英格兰大使.md) | Hannah Saunders | 前皇家空军（RAF）军官 | Toddle Born Wild创始人 | 现当代 | 英国格洛斯特郡纽恩特 | ✅ 已完成 |
+| [Emma Airley & Sebastian Bacewicz：从里斯本灵感到苏格兰首家专业葡式蛋挞店——英国Start Up Loans 2022年苏格兰大使](研究框架/领域划分/技术-工匠型/案例库/Emma_Airley_Sebastian_Bacewicz_从里斯本灵感到苏格兰首家专业葡式蛋挞店_英国Start_Up_Loans_2022苏格兰大使.md) | Emma Airley & Sebastian Bacewicz | 受里斯本pastelarias启发的美食爱好者 | Pastéis Lisboa联合创始人 | 现当代 | 英国苏格兰格拉斯哥 | ✅ 已完成 |
+| [Chantal Charles-Smith：从母亲视角到家庭友好咖啡避风港——英国Start Up Loans 2024年约克郡和亨伯地区大使](研究框架/领域划分/技术-工匠型/案例库/Chantal_Charles_Smith_从母亲视角到家庭友好咖啡避风港_英国Start_Up_Loans_2024约克郡和亨伯大使.md) | Chantal Charles-Smith | 两个年幼孩子的母亲 | Laughing Llama Coffee and Bistro创始人 | 现当代 | 英国约克 | ✅ 已完成 |
+| [危李：从火灾废墟到残疾人就业梦工厂——中国伤残退役军人创业典型，国家级残疾人就业示范基地](研究框架/领域划分/技术-工匠型/案例库/危李_从火灾废墟到残疾人就业梦工厂_中国伤残退役军人创业典型_国家级残疾人就业示范基地.md) | 危李 | 五级伤残军人/湘运岳阳公司下岗职工 | 湖南拓福家纺有限公司创始人 | 现当代 | 中国湖南省岳阳市 | ✅ 已完成 |
+| [魏瑾瑾：从95后大学生到全国乡村振兴青年先锋——中国西瓜种苗育繁一体化创业者](研究框架/领域划分/技术-工匠型/案例库/魏瑾瑾_从95后大学生到全国乡村振兴青年先锋_中国西瓜种苗育繁一体化创业者.md) | 魏瑾瑾 | 2015年大学毕业生/95后 | 安徽省百思农农业科技有限公司创始人 | 现当代 | 中国安徽省砀山县 | ✅ 已完成 |
+| [张顺勇：从深圳流水线到全国人大代表——中国"蜂药共生"返乡创业典型](研究框架/领域划分/技术-工匠型/案例库/张顺勇_从深圳流水线到全国人大代表_中国蜂药共生返乡创业典型.md) | 张顺勇 | 深圳电子行业流水线工人→生产经理→创业失败 | 贵州张氏兴农业综合开发有限责任公司创始人 | 现当代 | 中国贵州省六盘水市 | ✅ 已完成 |
+| [Sebastian Petersen & Mikkel Andersen：从丹麦小公寓到1200万美元——完全Bootstrap的Trendhim男性配饰电商帝国](研究框架/领域划分/技术-工匠型/案例库/Sebastian_Petersen_Mikkel_Andersen_从丹麦小公寓到1200万美元_完全Bootstrap的Trendhim男性配饰电商帝国.md) | Sebastian Petersen & Mikkel Andersen | 丹麦普通青年/父母公共部门工作 | Trendhim ApS联合创始人 | 现当代 | 丹麦Horsens | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业、拉美/非洲Bootstrap案例
