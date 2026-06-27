@@ -158,6 +158,12 @@
 | [Natalie Press：为自闭症儿子打造的感官友好宠物店——英国Start Up Loans大使，约克郡](研究框架/领域划分/技术-工匠型/案例库/Natalie_Press_为自闭症儿子打造的感官友好宠物店_英国Start_Up_Loans大使_约克郡.md) | Natalie Press | 自闭症儿童母亲/零售创业者 | Woof The Yorkshire Dog Shop创始人 | 现当代 | 英国约克郡 | ✅ 已完成 |
 | [吴国邦：从金融白领到"牛司令"——教育部全国高校毕业生基层就业卓越奖，贵州省返乡创业典型](研究框架/领域划分/技术-工匠型/案例库/吴国邦_从金融白领到牛司令_教育部全国高校毕业生基层就业卓越奖_贵州省返乡创业典型.md) | 吴国邦 | 华东理工大学本科/上海金融机构 | 黎平真牛农业有限公司创始人 | 现当代 | 中国贵州 | ✅ 已完成 |
 | [Park Yu-deok (朴裕德)：从牙山小巷到K-Food出海先锋——韩国传统市场创业者，中小企業部K-Food海外进军项目](研究框架/领域划分/技术-工匠型/案例库/Park_Yu_deok_从牙山小巷到K_Food出海先锋_韩国传统市场创业者_中小企業部K_Food海外进军项目.md) | Park Yu-deok (朴裕德) | 传统市场青年商人 | 골목막걸리 / 주로 (Golmok Makgeolli)创始人 | 现当代 | 韩国忠清南道牙山市 | ✅ 已完成 |
+| [Dorothea Spencer：从祖父的工厂到国防制造女王——美国SBA 2024宾夕法尼亚州年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Dorothea_Spencer_从祖父的工厂到国防制造女王_美国SBA_2024宾夕法尼亚州年度小企业人物.md) | Dorothea Spencer | 家族第三代制造业继承者 | Diversified Manufacturing Inc. (DMI) 所有者兼CEO | 现当代 | 美国宾夕法尼亚州 | ✅ 已完成 |
+| [Jacqueline Jackson：从教师到巧克力女王——美国SBA 2024伊利诺伊州年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Jacqueline_Jackson_从教师到巧克力女王_美国SBA_2024伊利诺伊州年度小企业人物.md) | Jacqueline Jackson | 芝加哥公立学校教师/食品科学爱好者 | Fames Chocolates & Gourmet Treats 创始人 | 现当代 | 美国伊利诺伊州芝加哥 | ✅ 已完成 |
+| [Ken Taunton：从单人创业到2000万美元——美国SBA 2023佐治亚州年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Ken_Taunton_从单人创业到2000万美元_美国SBA_2023佐治亚州年度小企业人物.md) | Ken Taunton | 建筑行业20年经验/家族创业背景 | Taunton Enterprises, LLC 创始人 | 现当代 | 美国佐治亚州 | ✅ 已完成 |
+| [Zee Azab：从埃及潜水教练到北爱尔兰海岸探险家——英国Start Up Loans大使](研究框架/领域划分/技术-工匠型/案例库/Zee_Azab_从埃及潜水教练到北爱尔兰海岸探险家_英国Start_Up_Loans大使.md) | Zee Azab (Zainab Azab) | 埃及潜水教练/海洋保护主义者 | Aquaholics Surf & Sea Adventures 创始人 | 现当代 | 英国北爱尔兰 | ✅ 已完成 |
+| [Leo Winstanley：从车祸康复到木工大师——英国Start Up Loans大使，英格兰西北](研究框架/领域划分/技术-工匠型/案例库/Leo_Winstanley_从车祸康复到木工大师_英国Start_Up_Loans大使_英格兰西北.md) | Leo Winstanley | 建筑行业背景/车祸康复者 | L W Bespoke Joinery 创始人 | 现当代 | 英国英格兰西北部 | ✅ 已完成 |
+| [Aseem Rawat：从IT总监到牛倌——印度自力更生型有机乳业创业](研究框架/领域划分/技术-工匠型/案例库/Aseem_Rawat_从IT总监到牛倌_印度自力更生型有机乳业创业.md) | Aseem Rawat | IT行业20年/项目管理总监 | Akshayakalpa Organic Dairy 联合创始人 | 现当代 | 印度卡纳塔克邦 | ✅ 已完成 |
 
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业、拉美/非洲Bootstrap案例
