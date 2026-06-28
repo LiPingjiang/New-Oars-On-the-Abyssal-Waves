@@ -177,7 +177,14 @@
 | [Krishna Ashish：从疫情废墟到15人企业——印度PMEGP手工艺创业重建典型](研究框架/领域划分/技术-工匠型/案例库/Krishna_Ashish_从疫情废墟到15人企业_印度PMEGP手工艺创业重建典型.md) | Krishna Ashish | 装饰纤维与花卉工艺品制造者 | Krishna Fiber创始人 | 现当代 | 印度比哈尔邦巴加尔普尔 | ✅ 已完成 |
 | [Shambhu Kumar：从5万卢比到30万营业额——印度PMEGP纺织创业典型，创造35个就业岗位](研究框架/领域划分/技术-工匠型/案例库/Shambhu_Kumar_从5万卢比到30万营业额_印度PMEGP纺织创业典型_创造35个就业岗位.md) | Shambhu Kumar | 卢迪亚纳纺织技术学徒 | 成衣制造企业创始人 | 现当代 | 印度比哈尔邦贾汉纳巴德 | ✅ 已完成 |
 | [Ram Lakhan：从10万卢比到日产800公斤牛奶——印度PMEGP乳业创业典型，北方邦自力更生典范](研究框架/领域划分/技术-工匠型/案例库/Ram_Lakhan_从10万卢比到日产800公斤牛奶_印度PMEGP乳业创业典型_北方邦自力更生典范.md) | Ram Lakhan | 农村青年/无固定职业 | 乳业企业创始人 | 现当代 | 印度北方邦拉克希米普尔赫里 | ✅ 已完成 |
-
+| [今井倫子：从酒店糕点师到tarte&cafe いとお菓子创始人——日本女性糕点师独立创业典型，中小機構補助金支持](研究框架/领域划分/技术-工匠型/案例库/今井倫子_从酒店糕点师到tarte_cafe创始人_日本女性糕点师独立创业典型.md) | 今井倫子（Imai Tomoko） | 酒店糕点师（パティシエ），从业18年 | tarte&cafe いとお菓子创始人 | 现当代 | 日本千葉県千葉市 | ✅ 已完成 |
+| [髙添理惠：从随军家属到57岁咖啡店创始人——日本政策金融公庫佐賀支店创业支援典型，SAGAwith事例集](研究框架/领域划分/技术-工匠型/案例库/髙添理惠_从随军家属到57岁咖啡店创始人_日本政策金融公庫佐賀支店创业支援典型.md) | 髙添理惠（Takazoe Rie） | 随军家属（自卫官妻子），随丈夫生活15年 | LIB COFFEE IMARI创始人 | 现当代 | 日本佐賀県伊万里市 | ✅ 已完成 |
+| [竹内宏：从金型职人到超小型注塑机发明家——日本制造业Bootstrap创业典型，ものづくり日本大赏获奖](研究框架/领域划分/技术-工匠型/案例库/竹内宏_从金型职人到超小型注塑机发明家_日本制造业Bootstrap创业典型.md) | 竹内宏（Takeuchi Hiroshi） | 金型（模具）行业技术工人/职人 | 新興セルビック（Shinko Celvic）创始人 | 现当代 | 日本 | ✅ 已完成 |
+| [TJ Bouchada：从美甲爱好者到Milton Keynes独立沙龙女王——英国Start Up Loans 2024年东南英格兰大使](研究框架/领域划分/技术-工匠型/案例库/TJ_Bouchada_从美甲爱好者到Milton_Keynes独立沙龙女王_英国Start_Up_Loans_2024东南英格兰大使.md) | TJ Bouchada | 美甲爱好者/从业者 | MoodyCow Nails创始人 | 现当代 | 英国Milton Keynes | ✅ 已完成 |
+| [Leon Stapleton：从数学科学教师到威尔士足球青训先锋——英国Start Up Loans 2024年威尔士大使](研究框架/领域划分/技术-工匠型/案例库/Leon_Stapleton_从数学科学教师到威尔士足球青训先锋_英国Start_Up_Loans_2024威尔士大使.md) | Leon Stapleton | 数学和科学教师 | We Make Footballers Cardiff创始人 | 现当代 | 英国威尔士卡迪夫 | ✅ 已完成 |
+| [Paul Connaughton：从慈善农场到赛车运动企业家——英国Start Up Loans 2024年东北英格兰大使，社会企业创新](研究框架/领域划分/技术-工匠型/案例库/Paul_Connaughton_从慈善农场到赛车运动企业家_英国Start_Up_Loans_2024东北英格兰大使.md) | Paul Connaughton | JPC Community Farm慈善机构相关人士 | JPC Specialist Motorsports创始人 | 现当代 | 英国英格兰东北Stokesley | ✅ 已完成 |
+| [Jamie Parker：从退伍军人到社区拳击馆创始人——英国Start Up Loans 2024年西南英格兰大使，废弃建筑改造](研究框架/领域划分/技术-工匠型/案例库/Jamie_Parker_从退伍军人到社区拳击馆创始人_英国Start_Up_Loans_2024西南英格兰大使.md) | Jamie Parker | 英国军队退伍军人 | Bang Bang Boxing创始人 | 现当代 | 英国Devon Crediton | ✅ 已完成 |
+| [Dan Levene & Dillon Cane：从可再生能源愿景到Two Blues Solar——英国Start Up Loans 2024年伦敦大使，净零政策驱动](研究框架/领域划分/技术-工匠型/案例库/Dan_Levene_Dillon_Cane_从可再生能源愿景到Two_Blues_Solar_英国Start_Up_Loans_2024伦敦大使.md) | Dan Levene & Dillon Cane | 可再生能源行业从业者 | Two Blues Solar联合创始人 | 现当代 | 英国伦敦Farringdon | ✅ 已完成 |
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业、拉美/非洲Bootstrap案例
 - 近代工业化：工厂技术工人→独立工厂主、江南制造局技术工人自立、荣氏兄弟（从钱庄学徒到纺织大王）
