@@ -185,6 +185,8 @@
 | [Paul Connaughton：从慈善农场到赛车运动企业家——英国Start Up Loans 2024年东北英格兰大使，社会企业创新](研究框架/领域划分/技术-工匠型/案例库/Paul_Connaughton_从慈善农场到赛车运动企业家_英国Start_Up_Loans_2024东北英格兰大使.md) | Paul Connaughton | JPC Community Farm慈善机构相关人士 | JPC Specialist Motorsports创始人 | 现当代 | 英国英格兰东北Stokesley | ✅ 已完成 |
 | [Jamie Parker：从退伍军人到社区拳击馆创始人——英国Start Up Loans 2024年西南英格兰大使，废弃建筑改造](研究框架/领域划分/技术-工匠型/案例库/Jamie_Parker_从退伍军人到社区拳击馆创始人_英国Start_Up_Loans_2024西南英格兰大使.md) | Jamie Parker | 英国军队退伍军人 | Bang Bang Boxing创始人 | 现当代 | 英国Devon Crediton | ✅ 已完成 |
 | [Dan Levene & Dillon Cane：从可再生能源愿景到Two Blues Solar——英国Start Up Loans 2024年伦敦大使，净零政策驱动](研究框架/领域划分/技术-工匠型/案例库/Dan_Levene_Dillon_Cane_从可再生能源愿景到Two_Blues_Solar_英国Start_Up_Loans_2024伦敦大使.md) | Dan Levene & Dillon Cane | 可再生能源行业从业者 | Two Blues Solar联合创始人 | 现当代 | 英国伦敦Farringdon | ✅ 已完成 |
+| [Michael Moravec：从物理治疗师到SBA资源合作伙伴孵化典型——美国SBA 2024年内布拉斯加州年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Michael_Moravec_从物理治疗师到SBA资源合作伙伴孵化典型_美国SBA_2024内布拉斯加州年度小企业人物.md) | Michael Moravec, PT, DPT, OCS | 物理治疗师（DPT, OCS认证） | Bluffs Physical Therapy LLC创始人 | 现当代 | 美国内布拉斯加州Scottsbluff | ✅ 已完成 |
+| [Angelene Ripley Wright：从概念开发者到俄克拉荷马州零售女王——美国SBA 2024年俄克拉荷马州年度小企业人物](研究框架/领域划分/技术-工匠型/案例库/Angelene_Ripley_Wright_从概念开发者到俄克拉荷马州零售女王_美国SBA_2024俄克拉荷马州年度小企业人物.md) | Angelene Ripley Wright | 零售概念开发者/商业顾问 | Ida Red General Stores所有者 | 现当代 | 美国俄克拉荷马州Tulsa | ✅ 已完成 |
 **待收录方向**：
 - 现当代：早期硅谷工程师创业、中国硬件工程师转型、开源社区技术创业、拉美/非洲Bootstrap案例
 - 近代工业化：工厂技术工人→独立工厂主、江南制造局技术工人自立、荣氏兄弟（从钱庄学徒到纺织大王）
